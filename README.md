@@ -10,7 +10,7 @@ A generative art sketch that creates a geometric wallpaper inspired by Aztec pat
 
 - **Location:** [`aztec-geometric-wallpaper`](aztec-geometric-wallpaper)
 - **Run:** Open [`aztec-geometric-wallpaper/index.html`](aztec-geometric-wallpaper/index.html) in your browser.
-- **GitHub Pages:** [View Online](https://ky421.github.io/p5js-collection/aztec-geometric-wallpaper/)
+- **GitHub Pages:** [View Online](https://ky-42.github.io/p5js-collection/aztec-geometric-wallpaper/)
 
 ### Asteroids
 
@@ -24,7 +24,7 @@ A classic arcade-style Asteroids game. Control your ship, shoot asteroids, and a
      - Or with Node.js (if installed):  
        `npx serve`
   2. Open [`http://localhost:8000/asteroids/index.html`](http://localhost:8000/asteroids/index.html) in your browser.
-- **GitHub Pages:** [View Online](https://ky421.github.io/p5js-collection/asteroids/)
+- **GitHub Pages:** [View Online](https://ky-42.github.io/p5js-collection/asteroids/)
 
 ## How to Use
 
